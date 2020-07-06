@@ -1263,3 +1263,18 @@ demos/demo21/application.c
 
 ![](images/mvvm_on_board.jpg)
 
+* 代码大小比较
+
+加 mvvm 之前：
+
+```
+Program Size: Code=924144 RO-data=295332 RW-data=4636 ZI-data=34186980  
+```
+
+加 mvvm 之后：
+
+```
+Program Size: Code=943592 RO-data=296564 RW-data=4720 ZI-data=34186800  
+```
+
+加上 conf_io、ubjson 和 mvvm 后，代码段大概增加 20K。
