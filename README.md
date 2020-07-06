@@ -13,7 +13,7 @@
 * 实现从文件系统加载应用程序的资源。
 * 使用 Sqlite 存储数据。
 * 支持 google 拼音输入法。
-* 支持 mvvm
+* 支持 mvvm 。
 
 ## 编译
 
@@ -25,6 +25,7 @@ cd awtk-stm32h743iitx-mvvm
 git clone https://github.com/zlgopen/awtk.git
 git clone https://github.com/zlgopen/awtk-fs-adapter.git
 git clone https://github.com/zlgopen/awtk-mvvm.git
+git clone https://github.com/zlgopen/awtk-sqlite3.git
 ```
 
 2. 用 keil 打开 USER/awtk.uvprojx
