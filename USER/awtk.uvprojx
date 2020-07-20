@@ -2935,11 +2935,6 @@
               <FileType>1</FileType>
               <FilePath>..\awtk-mvvm\demos\demo21\application.c</FilePath>
             </File>
-            <File>
-              <FileName>assets.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\awtk-mvvm\demos\assets.c</FilePath>
-            </File>
           </Files>
         </Group>
       </Groups>
