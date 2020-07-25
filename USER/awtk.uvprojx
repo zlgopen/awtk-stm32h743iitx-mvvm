@@ -2925,6 +2925,11 @@
               <FileType>1</FileType>
               <FilePath>..\awtk-mvvm\src\mvvm\mvvm.c</FilePath>
             </File>
+            <File>
+              <FileName>custom_binder.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk-mvvm\src\mvvm\base\custom_binder.c</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>
