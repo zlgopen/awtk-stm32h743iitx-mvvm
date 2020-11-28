@@ -429,8 +429,8 @@
 ..\awtk\src\tkc\event_source_manager_default.c
 ..\awtk\src\tkc\event_source_timer.c
 ..\awtk\src\tkc\event_source_timer.c
-..\awtk\src\tkc\expr_eval.c
-..\awtk\src\tkc\expr_eval.c
+..\awtk\src\tkc\fscript.c
+..\awtk\src\tkc\fscript.c
 ..\awtk\src\tkc\fs.c
 ..\awtk\src\tkc\fs.c
 ..\awtk\src\tkc\func_call_parser.c
