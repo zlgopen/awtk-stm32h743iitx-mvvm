@@ -93,7 +93,7 @@ int main(void)
   exfuns_init();  
   f_mount(fs[0],"0:",1);
 
-  fs_test(os_fs());
+ // fs_test(os_fs());
   assert(file_exist("0://awtk/assets/default/raw/fonts/default.ttf"));
   
   rtos_init();

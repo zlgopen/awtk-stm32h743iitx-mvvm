@@ -2360,6 +2360,16 @@
               <FileType>1</FileType>
               <FilePath>..\awtk\src\base\data_reader_asset.c</FilePath>
             </File>
+            <File>
+              <FileName>data_reader_mem.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\tkc\data_reader_mem.c</FilePath>
+            </File>
+            <File>
+              <FileName>data_writer_wbuffer.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\tkc\data_writer_wbuffer.c</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>

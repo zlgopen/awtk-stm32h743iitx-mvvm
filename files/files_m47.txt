@@ -54,6 +54,7 @@
 ..\awtk\src\base\dialog_highlighter_factory.c
 ..\awtk\src\base\dialog_highlighter_factory.c
 ..\awtk\src\base\data_reader_asset.c
+..\awtk\src\base\data_reader_mem.c
 ..\awtk\src\base\enums.c
 ..\awtk\src\base\enums.c
 ..\awtk\src\base\event_queue.c
@@ -409,6 +410,7 @@
 ..\awtk\src\tkc\data_writer.c
 ..\awtk\src\tkc\data_writer_factory.c
 ..\awtk\src\tkc\data_writer_file.c
+..\awtk\src\tkc\data_writer_wbuffer.c
 ..\awtk\src\tkc\date_time.c
 ..\awtk\src\tkc\date_time.c
 ..\awtk\src\tkc\easing.c
