@@ -268,10 +268,10 @@
 ..\awtk\src\ext_widgets\file_browser\file_chooser.c
 ..\awtk\src\ext_widgets\gif_image\gif_image.c
 ..\awtk\src\ext_widgets\gif_image\gif_image.c
-..\awtk\src\ext_widgets\guage\guage.c
-..\awtk\src\ext_widgets\guage\guage.c
-..\awtk\src\ext_widgets\guage\guage_pointer.c
-..\awtk\src\ext_widgets\guage\guage_pointer.c
+..\awtk\src\ext_widgets\gauge\gauge.c
+..\awtk\src\ext_widgets\gauge\gauge.c
+..\awtk\src\ext_widgets\gauge\gauge_pointer.c
+..\awtk\src\ext_widgets\gauge\gauge_pointer.c
 ..\awtk\src\ext_widgets\image_animation\image_animation.c
 ..\awtk\src\ext_widgets\image_animation\image_animation.c
 ..\awtk\src\ext_widgets\image_value\image_value.c

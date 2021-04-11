@@ -1456,16 +1456,6 @@
               <FilePath>..\awtk\src\ext_widgets\gif_image\gif_image.c</FilePath>
             </File>
             <File>
-              <FileName>guage.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\awtk\src\ext_widgets\guage\guage.c</FilePath>
-            </File>
-            <File>
-              <FileName>guage_pointer.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\awtk\src\ext_widgets\guage\guage_pointer.c</FilePath>
-            </File>
-            <File>
               <FileName>image_animation.c</FileName>
               <FileType>1</FileType>
               <FilePath>..\awtk\src\ext_widgets\image_animation\image_animation.c</FilePath>
@@ -2369,6 +2359,16 @@
               <FileName>data_writer_wbuffer.c</FileName>
               <FileType>1</FileType>
               <FilePath>..\awtk\src\tkc\data_writer_wbuffer.c</FilePath>
+            </File>
+            <File>
+              <FileName>gauge.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\ext_widgets\gauge\gauge.c</FilePath>
+            </File>
+            <File>
+              <FileName>gauge_pointer.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\ext_widgets\gauge\gauge_pointer.c</FilePath>
             </File>
           </Files>
         </Group>
