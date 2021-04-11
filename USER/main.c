@@ -39,8 +39,9 @@ extern int gui_app_start(int lcd_w, int lcd_h);
 extern int sqlite3_demo(const char* db_filename);
 
 void* awtk_thread(void* args) {
-  sqlite3_demo("/data/test.db");
-  
+  sqlite3_demo("/data/test.db");  
+  assert(file_exist("0://awtk/assets/default/raw/fonts/default.ttf"));
+	
   gui_app_start(lcdltdc.width, lcdltdc.height);
 
   return NULL;
@@ -94,7 +95,7 @@ int main(void)
   f_mount(fs[0],"0:",1);
 
  // fs_test(os_fs());
-  assert(file_exist("0://awtk/assets/default/raw/fonts/default.ttf"));
+  
   
   rtos_init();
   awtk_start_ui_thread();

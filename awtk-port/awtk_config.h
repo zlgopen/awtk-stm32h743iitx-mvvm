@@ -123,4 +123,6 @@
  */
 #define WITH_DATA_READER_WRITER 1
 
+#define WITH_FS_MT 1
+
 #endif/*AWTK_CONFIG_H*/
