@@ -184,8 +184,6 @@
             <hadXRAM>0</hadXRAM>
             <uocXRam>0</uocXRam>
             <RvdsVP>3</RvdsVP>
-            <RvdsMve>0</RvdsMve>
-            <RvdsCdeCp>0</RvdsCdeCp>
             <hadIRAM2>1</hadIRAM2>
             <hadIROM2>0</hadIROM2>
             <StupSel>8</StupSel>
@@ -326,7 +324,6 @@
             <uThumb>0</uThumb>
             <uSurpInc>0</uSurpInc>
             <uC99>0</uC99>
-            <uGnu>0</uGnu>
             <useXO>0</useXO>
             <v6Lang>6</v6Lang>
             <v6LangP>3</v6LangP>
@@ -352,7 +349,7 @@
             <NoWarn>0</NoWarn>
             <uSurpInc>0</uSurpInc>
             <useXO>0</useXO>
-            <ClangAsOpt>4</ClangAsOpt>
+            <uClangAs>0</uClangAs>
             <VariousControls>
               <MiscControls></MiscControls>
               <Define></Define>
@@ -1797,6 +1794,11 @@
               <FileName>darray.c</FileName>
               <FileType>1</FileType>
               <FilePath>..\awtk\src\tkc\darray.c</FilePath>
+            </File>
+            <File>
+              <FileName>typed_array.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\tkc\typed_array.c</FilePath>
             </File>
             <File>
               <FileName>data_reader.c</FileName>

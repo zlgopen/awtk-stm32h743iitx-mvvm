@@ -202,6 +202,7 @@
 ..\awtk\src\tkc\compressor.c
 ..\awtk\src\tkc\crc.c
 ..\awtk\src\tkc\darray.c
+..\awtk\src\tkc\typed_array.c
 ..\awtk\src\tkc\data_reader.c
 ..\awtk\src\tkc\data_reader_factory.c
 ..\awtk\src\tkc\data_reader_file.c

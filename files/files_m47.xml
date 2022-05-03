@@ -1019,6 +1019,11 @@
                 <FilePath>..\awtk\src\tkc\darray.c</FilePath>
              </File>
             <File>
+                <FileName>typed_array.c</FileName>
+                <FileType>1</FileType>
+                <FilePath>..\awtk\src\tkc\typed_array.c</FilePath>
+             </File>
+            <File>
                 <FileName>data_reader.c</FileName>
                 <FileType>1</FileType>
                 <FilePath>..\awtk\src\tkc\data_reader.c</FilePath>
