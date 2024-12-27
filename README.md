@@ -20,12 +20,12 @@
 1. 获取源码
 
 ```
-git clone https://github.com/zlgopen/awtk-stm32h743iitx-mvvm.git
-cd awtk-stm32h743iitx-mvvm
 git clone https://github.com/zlgopen/awtk.git
 git clone https://github.com/zlgopen/awtk-fs-adapter.git
 git clone https://github.com/zlgopen/awtk-mvvm.git
 git clone https://github.com/zlgopen/awtk-sqlite3.git
+git clone https://github.com/zlgopen/awtk-stm32h743iitx-mvvm.git
+git clone https://github.com/zlgopen/awtk-mvvm-demo-app.git
 ```
 
 2. 用 keil 打开 USER/awtk.uvprojx
